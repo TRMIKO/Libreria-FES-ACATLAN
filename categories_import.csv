@@ -1,0 +1,17 @@
+Category ID	Active (0/1)	Name *	Parent category	Root category (0/1)	Description	Meta title	Meta keywords	Meta description	URL rewritten	Image URL
+10	1	Producción Editorial	Home	0						
+11	1	Libros	Producción Editorial	0						
+12	1	Revistas	Producción Editorial	0						
+13	1	Libros Electrónicos	Producción Editorial	0						
+14	1	Material Gratuito	Producción Editorial	0						
+15	1	Ciencias Juridicas	Libros	0						
+16	1	Ciencias Socioeconomicas	Libros	0						
+17	1	Diseño y Edificación	Libros	0						
+18	1	Idiomas	Libros	0						
+19	1	Posgrado	Libros	0						
+20	1	Humanidades	Libros	0						
+21	1	Investigación Aplicada y Multidisciplinaria	Libros	0						
+22	1	Matemáticas e Ingeniería	Libros	0						
+23	1	Universidad Abierta y Educación a Distancia	Libros	0						
+24	1	AIDA	Revistas	0						
+25	1	ECONOMÍAUNAM	Revistas	0						
